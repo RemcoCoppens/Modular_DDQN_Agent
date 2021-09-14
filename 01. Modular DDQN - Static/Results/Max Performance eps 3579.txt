@@ -1,0 +1,4 @@
+Performance = 90.35639412997904
+Produce A: 0.414
+Produce B: 0.516
+Stay Idle: 0.070
